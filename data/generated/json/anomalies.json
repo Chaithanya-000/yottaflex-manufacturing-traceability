@@ -27,6 +27,6 @@
     "anomaly_id": "ANOM-005",
     "issue_type": "TRACEABILITY_CHAIN_BREAK",
     "ground_truth": "MISSING_RELATIONSHIP",
-    "description": "Production order references a deliberately missing material lot."
+    "description": "A material-consumption record references a deliberately missing material lot, breaking the order-to-lot traceability relationship."
   }
 ]

@@ -154,7 +154,7 @@ def build_dataset(cfg: GenerationConfig) -> dict[str, list[dict]]:
         {"anomaly_id":"ANOM-004","issue_type":"DEFECT_QTY_EXCEEDS_INSPECTED","ground_truth":"QUANTITY_VIOLATION",
          "description":"Defect quantity 12 exceeds inspected quantity 10."},
         {"anomaly_id":"ANOM-005","issue_type":"TRACEABILITY_CHAIN_BREAK","ground_truth":"MISSING_RELATIONSHIP",
-         "description":"Production order references a deliberately missing material lot."}
+         "description":"A material-consumption record references a deliberately missing material lot, breaking the order-to-lot traceability relationship."}
     ]
     return {"products":products,"boms":boms,"suppliers":suppliers,"material_lots":lots,
             "production_orders":orders,"machines":machines,"process_steps":steps,
