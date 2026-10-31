@@ -1,0 +1,42 @@
+[
+  {
+    "process_step_id": "STEP-001",
+    "step_name": "Cutting",
+    "sequence_no": 1
+  },
+  {
+    "process_step_id": "STEP-002",
+    "step_name": "Forming",
+    "sequence_no": 2
+  },
+  {
+    "process_step_id": "STEP-003",
+    "step_name": "Machining",
+    "sequence_no": 3
+  },
+  {
+    "process_step_id": "STEP-004",
+    "step_name": "Welding",
+    "sequence_no": 4
+  },
+  {
+    "process_step_id": "STEP-005",
+    "step_name": "Assembly",
+    "sequence_no": 5
+  },
+  {
+    "process_step_id": "STEP-006",
+    "step_name": "Finishing",
+    "sequence_no": 6
+  },
+  {
+    "process_step_id": "STEP-007",
+    "step_name": "Testing",
+    "sequence_no": 7
+  },
+  {
+    "process_step_id": "STEP-008",
+    "step_name": "Packaging",
+    "sequence_no": 8
+  }
+]

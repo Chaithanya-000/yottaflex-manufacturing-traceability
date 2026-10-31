@@ -1,0 +1,9 @@
+inspection_plan_id,process_step_id,characteristic,lower_spec,upper_spec,unit
+INSP-PLAN-0001,STEP-001,Surface finish,0.0,100.0,index
+INSP-PLAN-0002,STEP-002,Hardness,0.0,100.0,index
+INSP-PLAN-0003,STEP-003,Electrical resistance,0.0,100.0,index
+INSP-PLAN-0004,STEP-004,Dimension,0.0,100.0,index
+INSP-PLAN-0005,STEP-005,Surface finish,0.0,100.0,index
+INSP-PLAN-0006,STEP-006,Hardness,0.0,100.0,index
+INSP-PLAN-0007,STEP-007,Electrical resistance,0.0,100.0,index
+INSP-PLAN-0008,STEP-008,Dimension,0.0,100.0,index

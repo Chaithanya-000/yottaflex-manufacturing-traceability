@@ -1,0 +1,302 @@
+[
+  {
+    "supplier_id": "SUP-0001",
+    "supplier_name": "Supplier 001",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0002",
+    "supplier_name": "Supplier 002",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0003",
+    "supplier_name": "Supplier 003",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0004",
+    "supplier_name": "Supplier 004",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0005",
+    "supplier_name": "Supplier 005",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0006",
+    "supplier_name": "Supplier 006",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0007",
+    "supplier_name": "Supplier 007",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0008",
+    "supplier_name": "Supplier 008",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0009",
+    "supplier_name": "Supplier 009",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0010",
+    "supplier_name": "Supplier 010",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0011",
+    "supplier_name": "Supplier 011",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0012",
+    "supplier_name": "Supplier 012",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0013",
+    "supplier_name": "Supplier 013",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0014",
+    "supplier_name": "Supplier 014",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0015",
+    "supplier_name": "Supplier 015",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0016",
+    "supplier_name": "Supplier 016",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0017",
+    "supplier_name": "Supplier 017",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0018",
+    "supplier_name": "Supplier 018",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0019",
+    "supplier_name": "Supplier 019",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0020",
+    "supplier_name": "Supplier 020",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0021",
+    "supplier_name": "Supplier 021",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0022",
+    "supplier_name": "Supplier 022",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0023",
+    "supplier_name": "Supplier 023",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0024",
+    "supplier_name": "Supplier 024",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0025",
+    "supplier_name": "Supplier 025",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0026",
+    "supplier_name": "Supplier 026",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0027",
+    "supplier_name": "Supplier 027",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0028",
+    "supplier_name": "Supplier 028",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0029",
+    "supplier_name": "Supplier 029",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0030",
+    "supplier_name": "Supplier 030",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0031",
+    "supplier_name": "Supplier 031",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0032",
+    "supplier_name": "Supplier 032",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0033",
+    "supplier_name": "Supplier 033",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0034",
+    "supplier_name": "Supplier 034",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0035",
+    "supplier_name": "Supplier 035",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0036",
+    "supplier_name": "Supplier 036",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0037",
+    "supplier_name": "Supplier 037",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0038",
+    "supplier_name": "Supplier 038",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0039",
+    "supplier_name": "Supplier 039",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0040",
+    "supplier_name": "Supplier 040",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0041",
+    "supplier_name": "Supplier 041",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0042",
+    "supplier_name": "Supplier 042",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0043",
+    "supplier_name": "Supplier 043",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0044",
+    "supplier_name": "Supplier 044",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0045",
+    "supplier_name": "Supplier 045",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0046",
+    "supplier_name": "Supplier 046",
+    "region": "East",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0047",
+    "supplier_name": "Supplier 047",
+    "region": "West",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0048",
+    "supplier_name": "Supplier 048",
+    "region": "North",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0049",
+    "supplier_name": "Supplier 049",
+    "region": "South",
+    "status": "APPROVED"
+  },
+  {
+    "supplier_id": "SUP-0050",
+    "supplier_name": "Supplier 050",
+    "region": "East",
+    "status": "APPROVED"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "inspection_plan_id": "INSP-PLAN-0001",
+    "process_step_id": "STEP-001",
+    "characteristic": "Surface finish",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  },
+  {
+    "inspection_plan_id": "INSP-PLAN-0002",
+    "process_step_id": "STEP-002",
+    "characteristic": "Hardness",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  },
+  {
+    "inspection_plan_id": "INSP-PLAN-0003",
+    "process_step_id": "STEP-003",
+    "characteristic": "Electrical resistance",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  },
+  {
+    "inspection_plan_id": "INSP-PLAN-0004",
+    "process_step_id": "STEP-004",
+    "characteristic": "Dimension",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  },
+  {
+    "inspection_plan_id": "INSP-PLAN-0005",
+    "process_step_id": "STEP-005",
+    "characteristic": "Surface finish",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  },
+  {
+    "inspection_plan_id": "INSP-PLAN-0006",
+    "process_step_id": "STEP-006",
+    "characteristic": "Hardness",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  },
+  {
+    "inspection_plan_id": "INSP-PLAN-0007",
+    "process_step_id": "STEP-007",
+    "characteristic": "Electrical resistance",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  },
+  {
+    "inspection_plan_id": "INSP-PLAN-0008",
+    "process_step_id": "STEP-008",
+    "characteristic": "Dimension",
+    "lower_spec": 0.0,
+    "upper_spec": 100.0,
+    "unit": "index"
+  }
+]

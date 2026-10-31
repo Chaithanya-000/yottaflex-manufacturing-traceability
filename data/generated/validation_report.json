@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "checks": {
+    "unique_product_ids": true,
+    "unique_supplier_ids": true,
+    "unique_lot_ids": true,
+    "lot_supplier_fk": true,
+    "consumption_order_fk": true,
+    "consumption_lot_fk": true,
+    "bom_consumption_reconciles": true,
+    "inspection_order_fk": true,
+    "inspection_quantity_bounds": true,
+    "defect_rate_reconciles": true,
+    "nonnegative_inventory": true,
+    "defect_order_fk": true,
+    "defect_lot_fk": true,
+    "capa_defect_fk": true,
+    "all_required_anomalies_present": true
+  },
+  "counts": {
+    "products": 200,
+    "suppliers": 50,
+    "material_lots": 2000,
+    "production_orders": 5000,
+    "inspection_results": 20000,
+    "defects": 706,
+    "corrective_actions": 706,
+    "anomalies": 5
+  }
+}

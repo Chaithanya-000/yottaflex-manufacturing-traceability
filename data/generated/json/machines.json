@@ -1,0 +1,242 @@
+[
+  {
+    "machine_id": "MCH-0001",
+    "machine_name": "Production Machine 001",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0002",
+    "machine_name": "Production Machine 002",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0003",
+    "machine_name": "Production Machine 003",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0004",
+    "machine_name": "Production Machine 004",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0005",
+    "machine_name": "Production Machine 005",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0006",
+    "machine_name": "Production Machine 006",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0007",
+    "machine_name": "Production Machine 007",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0008",
+    "machine_name": "Production Machine 008",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0009",
+    "machine_name": "Production Machine 009",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0010",
+    "machine_name": "Production Machine 010",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0011",
+    "machine_name": "Production Machine 011",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0012",
+    "machine_name": "Production Machine 012",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0013",
+    "machine_name": "Production Machine 013",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0014",
+    "machine_name": "Production Machine 014",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0015",
+    "machine_name": "Production Machine 015",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0016",
+    "machine_name": "Production Machine 016",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0017",
+    "machine_name": "Production Machine 017",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0018",
+    "machine_name": "Production Machine 018",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0019",
+    "machine_name": "Production Machine 019",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0020",
+    "machine_name": "Production Machine 020",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0021",
+    "machine_name": "Production Machine 021",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0022",
+    "machine_name": "Production Machine 022",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0023",
+    "machine_name": "Production Machine 023",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0024",
+    "machine_name": "Production Machine 024",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0025",
+    "machine_name": "Production Machine 025",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0026",
+    "machine_name": "Production Machine 026",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0027",
+    "machine_name": "Production Machine 027",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0028",
+    "machine_name": "Production Machine 028",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0029",
+    "machine_name": "Production Machine 029",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0030",
+    "machine_name": "Production Machine 030",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0031",
+    "machine_name": "Production Machine 031",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0032",
+    "machine_name": "Production Machine 032",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0033",
+    "machine_name": "Production Machine 033",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0034",
+    "machine_name": "Production Machine 034",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0035",
+    "machine_name": "Production Machine 035",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0036",
+    "machine_name": "Production Machine 036",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0037",
+    "machine_name": "Production Machine 037",
+    "machine_type": "Press",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0038",
+    "machine_name": "Production Machine 038",
+    "machine_type": "Molding",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0039",
+    "machine_name": "Production Machine 039",
+    "machine_type": "Assembly",
+    "status": "ACTIVE"
+  },
+  {
+    "machine_id": "MCH-0040",
+    "machine_name": "Production Machine 040",
+    "machine_type": "CNC",
+    "status": "ACTIVE"
+  }
+]

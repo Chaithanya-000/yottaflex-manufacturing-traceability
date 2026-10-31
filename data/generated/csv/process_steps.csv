@@ -1,0 +1,9 @@
+process_step_id,step_name,sequence_no
+STEP-001,Cutting,1
+STEP-002,Forming,2
+STEP-003,Machining,3
+STEP-004,Welding,4
+STEP-005,Assembly,5
+STEP-006,Finishing,6
+STEP-007,Testing,7
+STEP-008,Packaging,8

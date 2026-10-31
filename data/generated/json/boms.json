@@ -1,0 +1,4802 @@
+[
+  {
+    "bom_id": "BOM-000001-01",
+    "product_id": "SKU-000001",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 2.635,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000001-02",
+    "product_id": "SKU-000001",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 0.621,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000001-03",
+    "product_id": "SKU-000001",
+    "material_code": "MAT-0037",
+    "required_qty_per_unit": 2.559,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000002-01",
+    "product_id": "SKU-000002",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 2.284,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000002-02",
+    "product_id": "SKU-000002",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.867,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000002-03",
+    "product_id": "SKU-000002",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 0.648,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000003-01",
+    "product_id": "SKU-000003",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 0.766,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000003-02",
+    "product_id": "SKU-000003",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 0.984,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000003-03",
+    "product_id": "SKU-000003",
+    "material_code": "MAT-0080",
+    "required_qty_per_unit": 0.876,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000004-01",
+    "product_id": "SKU-000004",
+    "material_code": "MAT-0015",
+    "required_qty_per_unit": 1.627,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000004-02",
+    "product_id": "SKU-000004",
+    "material_code": "MAT-0028",
+    "required_qty_per_unit": 1.972,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000004-03",
+    "product_id": "SKU-000004",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 1.419,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000005-01",
+    "product_id": "SKU-000005",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 0.643,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000005-02",
+    "product_id": "SKU-000005",
+    "material_code": "MAT-0045",
+    "required_qty_per_unit": 2.584,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000005-03",
+    "product_id": "SKU-000005",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 0.871,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000006-01",
+    "product_id": "SKU-000006",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 1.907,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000006-02",
+    "product_id": "SKU-000006",
+    "material_code": "MAT-0009",
+    "required_qty_per_unit": 1.783,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000006-03",
+    "product_id": "SKU-000006",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 1.784,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000007-01",
+    "product_id": "SKU-000007",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 2.038,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000007-02",
+    "product_id": "SKU-000007",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 1.541,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000007-03",
+    "product_id": "SKU-000007",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 0.722,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000008-01",
+    "product_id": "SKU-000008",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 2.634,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000008-02",
+    "product_id": "SKU-000008",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 2.81,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000008-03",
+    "product_id": "SKU-000008",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 1.02,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000009-01",
+    "product_id": "SKU-000009",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 0.74,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000009-02",
+    "product_id": "SKU-000009",
+    "material_code": "MAT-0010",
+    "required_qty_per_unit": 1.762,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000009-03",
+    "product_id": "SKU-000009",
+    "material_code": "MAT-0048",
+    "required_qty_per_unit": 0.514,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000010-01",
+    "product_id": "SKU-000010",
+    "material_code": "MAT-0010",
+    "required_qty_per_unit": 1.923,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000010-02",
+    "product_id": "SKU-000010",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 1.716,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000010-03",
+    "product_id": "SKU-000010",
+    "material_code": "MAT-0029",
+    "required_qty_per_unit": 2.065,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000011-01",
+    "product_id": "SKU-000011",
+    "material_code": "MAT-0069",
+    "required_qty_per_unit": 0.603,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000011-02",
+    "product_id": "SKU-000011",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 2.727,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000011-03",
+    "product_id": "SKU-000011",
+    "material_code": "MAT-0047",
+    "required_qty_per_unit": 2.87,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000012-01",
+    "product_id": "SKU-000012",
+    "material_code": "MAT-0049",
+    "required_qty_per_unit": 0.591,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000012-02",
+    "product_id": "SKU-000012",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 2.712,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000012-03",
+    "product_id": "SKU-000012",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 2.386,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000013-01",
+    "product_id": "SKU-000013",
+    "material_code": "MAT-0021",
+    "required_qty_per_unit": 1.756,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000013-02",
+    "product_id": "SKU-000013",
+    "material_code": "MAT-0039",
+    "required_qty_per_unit": 1.793,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000013-03",
+    "product_id": "SKU-000013",
+    "material_code": "MAT-0067",
+    "required_qty_per_unit": 1.424,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000014-01",
+    "product_id": "SKU-000014",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 0.537,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000014-02",
+    "product_id": "SKU-000014",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 2.908,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000014-03",
+    "product_id": "SKU-000014",
+    "material_code": "MAT-0060",
+    "required_qty_per_unit": 0.578,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000015-01",
+    "product_id": "SKU-000015",
+    "material_code": "MAT-0038",
+    "required_qty_per_unit": 0.626,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000015-02",
+    "product_id": "SKU-000015",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 0.612,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000015-03",
+    "product_id": "SKU-000015",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 1.762,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000016-01",
+    "product_id": "SKU-000016",
+    "material_code": "MAT-0002",
+    "required_qty_per_unit": 1.202,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000016-02",
+    "product_id": "SKU-000016",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 0.55,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000016-03",
+    "product_id": "SKU-000016",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 2.323,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000017-01",
+    "product_id": "SKU-000017",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.896,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000017-02",
+    "product_id": "SKU-000017",
+    "material_code": "MAT-0041",
+    "required_qty_per_unit": 2.223,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000017-03",
+    "product_id": "SKU-000017",
+    "material_code": "MAT-0078",
+    "required_qty_per_unit": 1.779,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000018-01",
+    "product_id": "SKU-000018",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 2.369,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000018-02",
+    "product_id": "SKU-000018",
+    "material_code": "MAT-0063",
+    "required_qty_per_unit": 2.636,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000018-03",
+    "product_id": "SKU-000018",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 1.289,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000019-01",
+    "product_id": "SKU-000019",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 1.388,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000019-02",
+    "product_id": "SKU-000019",
+    "material_code": "MAT-0072",
+    "required_qty_per_unit": 2.337,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000019-03",
+    "product_id": "SKU-000019",
+    "material_code": "MAT-0073",
+    "required_qty_per_unit": 2.593,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000020-01",
+    "product_id": "SKU-000020",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 0.879,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000020-02",
+    "product_id": "SKU-000020",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 1.788,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000020-03",
+    "product_id": "SKU-000020",
+    "material_code": "MAT-0065",
+    "required_qty_per_unit": 1.629,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000021-01",
+    "product_id": "SKU-000021",
+    "material_code": "MAT-0002",
+    "required_qty_per_unit": 2.23,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000021-02",
+    "product_id": "SKU-000021",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 1.167,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000021-03",
+    "product_id": "SKU-000021",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 2.975,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000022-01",
+    "product_id": "SKU-000022",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 2.489,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000022-02",
+    "product_id": "SKU-000022",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 2.618,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000022-03",
+    "product_id": "SKU-000022",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 1.719,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000023-01",
+    "product_id": "SKU-000023",
+    "material_code": "MAT-0072",
+    "required_qty_per_unit": 1.703,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000023-02",
+    "product_id": "SKU-000023",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 2.978,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000023-03",
+    "product_id": "SKU-000023",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 2.33,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000024-01",
+    "product_id": "SKU-000024",
+    "material_code": "MAT-0078",
+    "required_qty_per_unit": 1.943,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000024-02",
+    "product_id": "SKU-000024",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 0.723,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000024-03",
+    "product_id": "SKU-000024",
+    "material_code": "MAT-0065",
+    "required_qty_per_unit": 1.511,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000025-01",
+    "product_id": "SKU-000025",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 2.018,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000025-02",
+    "product_id": "SKU-000025",
+    "material_code": "MAT-0041",
+    "required_qty_per_unit": 0.989,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000025-03",
+    "product_id": "SKU-000025",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 2.331,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000026-01",
+    "product_id": "SKU-000026",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 1.828,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000026-02",
+    "product_id": "SKU-000026",
+    "material_code": "MAT-0049",
+    "required_qty_per_unit": 0.657,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000026-03",
+    "product_id": "SKU-000026",
+    "material_code": "MAT-0078",
+    "required_qty_per_unit": 2.019,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000027-01",
+    "product_id": "SKU-000027",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 2.388,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000027-02",
+    "product_id": "SKU-000027",
+    "material_code": "MAT-0029",
+    "required_qty_per_unit": 2.801,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000027-03",
+    "product_id": "SKU-000027",
+    "material_code": "MAT-0063",
+    "required_qty_per_unit": 2.962,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000028-01",
+    "product_id": "SKU-000028",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 1.093,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000028-02",
+    "product_id": "SKU-000028",
+    "material_code": "MAT-0027",
+    "required_qty_per_unit": 2.488,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000028-03",
+    "product_id": "SKU-000028",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 0.869,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000029-01",
+    "product_id": "SKU-000029",
+    "material_code": "MAT-0055",
+    "required_qty_per_unit": 2.737,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000029-02",
+    "product_id": "SKU-000029",
+    "material_code": "MAT-0048",
+    "required_qty_per_unit": 1.476,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000029-03",
+    "product_id": "SKU-000029",
+    "material_code": "MAT-0024",
+    "required_qty_per_unit": 2.017,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000030-01",
+    "product_id": "SKU-000030",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 2.134,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000030-02",
+    "product_id": "SKU-000030",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 1.634,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000030-03",
+    "product_id": "SKU-000030",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 1.057,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000031-01",
+    "product_id": "SKU-000031",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 2.472,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000031-02",
+    "product_id": "SKU-000031",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 2.357,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000031-03",
+    "product_id": "SKU-000031",
+    "material_code": "MAT-0037",
+    "required_qty_per_unit": 1.695,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000032-01",
+    "product_id": "SKU-000032",
+    "material_code": "MAT-0047",
+    "required_qty_per_unit": 0.654,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000032-02",
+    "product_id": "SKU-000032",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 1.059,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000032-03",
+    "product_id": "SKU-000032",
+    "material_code": "MAT-0042",
+    "required_qty_per_unit": 0.848,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000033-01",
+    "product_id": "SKU-000033",
+    "material_code": "MAT-0029",
+    "required_qty_per_unit": 1.892,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000033-02",
+    "product_id": "SKU-000033",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 2.417,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000033-03",
+    "product_id": "SKU-000033",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 1.502,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000034-01",
+    "product_id": "SKU-000034",
+    "material_code": "MAT-0074",
+    "required_qty_per_unit": 2.843,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000034-02",
+    "product_id": "SKU-000034",
+    "material_code": "MAT-0067",
+    "required_qty_per_unit": 2.597,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000034-03",
+    "product_id": "SKU-000034",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 0.69,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000035-01",
+    "product_id": "SKU-000035",
+    "material_code": "MAT-0074",
+    "required_qty_per_unit": 2.336,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000035-02",
+    "product_id": "SKU-000035",
+    "material_code": "MAT-0060",
+    "required_qty_per_unit": 1.077,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000035-03",
+    "product_id": "SKU-000035",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 2.896,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000036-01",
+    "product_id": "SKU-000036",
+    "material_code": "MAT-0071",
+    "required_qty_per_unit": 1.908,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000036-02",
+    "product_id": "SKU-000036",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 1.129,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000036-03",
+    "product_id": "SKU-000036",
+    "material_code": "MAT-0021",
+    "required_qty_per_unit": 0.947,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000037-01",
+    "product_id": "SKU-000037",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 2.919,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000037-02",
+    "product_id": "SKU-000037",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 0.6,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000037-03",
+    "product_id": "SKU-000037",
+    "material_code": "MAT-0045",
+    "required_qty_per_unit": 1.879,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000038-01",
+    "product_id": "SKU-000038",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 0.814,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000038-02",
+    "product_id": "SKU-000038",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.394,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000038-03",
+    "product_id": "SKU-000038",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 2.142,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000039-01",
+    "product_id": "SKU-000039",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 2.703,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000039-02",
+    "product_id": "SKU-000039",
+    "material_code": "MAT-0079",
+    "required_qty_per_unit": 1.57,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000039-03",
+    "product_id": "SKU-000039",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 0.951,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000040-01",
+    "product_id": "SKU-000040",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 1.002,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000040-02",
+    "product_id": "SKU-000040",
+    "material_code": "MAT-0041",
+    "required_qty_per_unit": 2.918,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000040-03",
+    "product_id": "SKU-000040",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 2.687,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000041-01",
+    "product_id": "SKU-000041",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 1.971,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000041-02",
+    "product_id": "SKU-000041",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.445,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000041-03",
+    "product_id": "SKU-000041",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 1.701,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000042-01",
+    "product_id": "SKU-000042",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 0.989,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000042-02",
+    "product_id": "SKU-000042",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 1.707,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000042-03",
+    "product_id": "SKU-000042",
+    "material_code": "MAT-0079",
+    "required_qty_per_unit": 1.926,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000043-01",
+    "product_id": "SKU-000043",
+    "material_code": "MAT-0077",
+    "required_qty_per_unit": 2.19,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000043-02",
+    "product_id": "SKU-000043",
+    "material_code": "MAT-0047",
+    "required_qty_per_unit": 2.484,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000043-03",
+    "product_id": "SKU-000043",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 1.732,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000044-01",
+    "product_id": "SKU-000044",
+    "material_code": "MAT-0064",
+    "required_qty_per_unit": 2.474,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000044-02",
+    "product_id": "SKU-000044",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 0.8,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000044-03",
+    "product_id": "SKU-000044",
+    "material_code": "MAT-0038",
+    "required_qty_per_unit": 1.333,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000045-01",
+    "product_id": "SKU-000045",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 2.784,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000045-02",
+    "product_id": "SKU-000045",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 2.288,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000045-03",
+    "product_id": "SKU-000045",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 1.173,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000046-01",
+    "product_id": "SKU-000046",
+    "material_code": "MAT-0039",
+    "required_qty_per_unit": 1.813,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000046-02",
+    "product_id": "SKU-000046",
+    "material_code": "MAT-0015",
+    "required_qty_per_unit": 2.179,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000046-03",
+    "product_id": "SKU-000046",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 2.001,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000047-01",
+    "product_id": "SKU-000047",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 1.365,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000047-02",
+    "product_id": "SKU-000047",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 1.195,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000047-03",
+    "product_id": "SKU-000047",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 1.148,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000048-01",
+    "product_id": "SKU-000048",
+    "material_code": "MAT-0074",
+    "required_qty_per_unit": 0.938,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000048-02",
+    "product_id": "SKU-000048",
+    "material_code": "MAT-0072",
+    "required_qty_per_unit": 1.018,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000048-03",
+    "product_id": "SKU-000048",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 1.473,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000049-01",
+    "product_id": "SKU-000049",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 2.368,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000049-02",
+    "product_id": "SKU-000049",
+    "material_code": "MAT-0047",
+    "required_qty_per_unit": 1.384,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000049-03",
+    "product_id": "SKU-000049",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 1.902,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000050-01",
+    "product_id": "SKU-000050",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 1.305,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000050-02",
+    "product_id": "SKU-000050",
+    "material_code": "MAT-0039",
+    "required_qty_per_unit": 1.436,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000050-03",
+    "product_id": "SKU-000050",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 0.634,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000051-01",
+    "product_id": "SKU-000051",
+    "material_code": "MAT-0047",
+    "required_qty_per_unit": 0.757,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000051-02",
+    "product_id": "SKU-000051",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 0.869,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000051-03",
+    "product_id": "SKU-000051",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 1.148,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000052-01",
+    "product_id": "SKU-000052",
+    "material_code": "MAT-0047",
+    "required_qty_per_unit": 2.286,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000052-02",
+    "product_id": "SKU-000052",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 0.592,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000052-03",
+    "product_id": "SKU-000052",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 2.018,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000053-01",
+    "product_id": "SKU-000053",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 2.449,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000053-02",
+    "product_id": "SKU-000053",
+    "material_code": "MAT-0027",
+    "required_qty_per_unit": 1.275,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000053-03",
+    "product_id": "SKU-000053",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 0.643,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000054-01",
+    "product_id": "SKU-000054",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 1.339,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000054-02",
+    "product_id": "SKU-000054",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 2.287,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000054-03",
+    "product_id": "SKU-000054",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 2.931,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000055-01",
+    "product_id": "SKU-000055",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 1.657,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000055-02",
+    "product_id": "SKU-000055",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 1.532,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000055-03",
+    "product_id": "SKU-000055",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 2.899,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000056-01",
+    "product_id": "SKU-000056",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 2.093,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000056-02",
+    "product_id": "SKU-000056",
+    "material_code": "MAT-0065",
+    "required_qty_per_unit": 0.632,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000056-03",
+    "product_id": "SKU-000056",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 2.822,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000057-01",
+    "product_id": "SKU-000057",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 1.194,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000057-02",
+    "product_id": "SKU-000057",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 2.522,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000057-03",
+    "product_id": "SKU-000057",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 2.788,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000058-01",
+    "product_id": "SKU-000058",
+    "material_code": "MAT-0037",
+    "required_qty_per_unit": 2.966,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000058-02",
+    "product_id": "SKU-000058",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 2.041,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000058-03",
+    "product_id": "SKU-000058",
+    "material_code": "MAT-0079",
+    "required_qty_per_unit": 2.97,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000059-01",
+    "product_id": "SKU-000059",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 0.922,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000059-02",
+    "product_id": "SKU-000059",
+    "material_code": "MAT-0070",
+    "required_qty_per_unit": 2.394,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000059-03",
+    "product_id": "SKU-000059",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 1.702,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000060-01",
+    "product_id": "SKU-000060",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 0.672,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000060-02",
+    "product_id": "SKU-000060",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 2.318,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000060-03",
+    "product_id": "SKU-000060",
+    "material_code": "MAT-0021",
+    "required_qty_per_unit": 2.762,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000061-01",
+    "product_id": "SKU-000061",
+    "material_code": "MAT-0029",
+    "required_qty_per_unit": 2.734,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000061-02",
+    "product_id": "SKU-000061",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 1.678,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000061-03",
+    "product_id": "SKU-000061",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 1.276,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000062-01",
+    "product_id": "SKU-000062",
+    "material_code": "MAT-0037",
+    "required_qty_per_unit": 2.263,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000062-02",
+    "product_id": "SKU-000062",
+    "material_code": "MAT-0004",
+    "required_qty_per_unit": 2.526,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000062-03",
+    "product_id": "SKU-000062",
+    "material_code": "MAT-0073",
+    "required_qty_per_unit": 1.158,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000063-01",
+    "product_id": "SKU-000063",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 0.858,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000063-02",
+    "product_id": "SKU-000063",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 1.633,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000063-03",
+    "product_id": "SKU-000063",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 1.441,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000064-01",
+    "product_id": "SKU-000064",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 2.783,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000064-02",
+    "product_id": "SKU-000064",
+    "material_code": "MAT-0015",
+    "required_qty_per_unit": 0.689,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000064-03",
+    "product_id": "SKU-000064",
+    "material_code": "MAT-0024",
+    "required_qty_per_unit": 2.076,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000065-01",
+    "product_id": "SKU-000065",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 1.268,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000065-02",
+    "product_id": "SKU-000065",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 0.918,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000065-03",
+    "product_id": "SKU-000065",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 0.897,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000066-01",
+    "product_id": "SKU-000066",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 2.99,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000066-02",
+    "product_id": "SKU-000066",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 1.119,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000066-03",
+    "product_id": "SKU-000066",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 1.411,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000067-01",
+    "product_id": "SKU-000067",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 0.892,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000067-02",
+    "product_id": "SKU-000067",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 1.497,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000067-03",
+    "product_id": "SKU-000067",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 2.022,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000068-01",
+    "product_id": "SKU-000068",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 1.891,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000068-02",
+    "product_id": "SKU-000068",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 2.791,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000068-03",
+    "product_id": "SKU-000068",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.909,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000069-01",
+    "product_id": "SKU-000069",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 2.2,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000069-02",
+    "product_id": "SKU-000069",
+    "material_code": "MAT-0024",
+    "required_qty_per_unit": 0.631,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000069-03",
+    "product_id": "SKU-000069",
+    "material_code": "MAT-0037",
+    "required_qty_per_unit": 2.707,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000070-01",
+    "product_id": "SKU-000070",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 2.565,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000070-02",
+    "product_id": "SKU-000070",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 1.004,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000070-03",
+    "product_id": "SKU-000070",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 1.293,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000071-01",
+    "product_id": "SKU-000071",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 0.647,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000071-02",
+    "product_id": "SKU-000071",
+    "material_code": "MAT-0021",
+    "required_qty_per_unit": 2.765,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000071-03",
+    "product_id": "SKU-000071",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 1.819,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000072-01",
+    "product_id": "SKU-000072",
+    "material_code": "MAT-0034",
+    "required_qty_per_unit": 1.95,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000072-02",
+    "product_id": "SKU-000072",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.749,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000072-03",
+    "product_id": "SKU-000072",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 2.324,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000073-01",
+    "product_id": "SKU-000073",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 0.862,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000073-02",
+    "product_id": "SKU-000073",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 2.897,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000073-03",
+    "product_id": "SKU-000073",
+    "material_code": "MAT-0039",
+    "required_qty_per_unit": 0.731,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000074-01",
+    "product_id": "SKU-000074",
+    "material_code": "MAT-0042",
+    "required_qty_per_unit": 2.338,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000074-02",
+    "product_id": "SKU-000074",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 1.294,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000074-03",
+    "product_id": "SKU-000074",
+    "material_code": "MAT-0047",
+    "required_qty_per_unit": 2.149,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000075-01",
+    "product_id": "SKU-000075",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 1.052,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000075-02",
+    "product_id": "SKU-000075",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 1.876,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000075-03",
+    "product_id": "SKU-000075",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 2.02,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000076-01",
+    "product_id": "SKU-000076",
+    "material_code": "MAT-0055",
+    "required_qty_per_unit": 0.608,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000076-02",
+    "product_id": "SKU-000076",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 0.799,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000076-03",
+    "product_id": "SKU-000076",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 1.499,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000077-01",
+    "product_id": "SKU-000077",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 1.102,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000077-02",
+    "product_id": "SKU-000077",
+    "material_code": "MAT-0077",
+    "required_qty_per_unit": 0.711,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000077-03",
+    "product_id": "SKU-000077",
+    "material_code": "MAT-0067",
+    "required_qty_per_unit": 1.967,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000078-01",
+    "product_id": "SKU-000078",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 2.642,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000078-02",
+    "product_id": "SKU-000078",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.268,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000078-03",
+    "product_id": "SKU-000078",
+    "material_code": "MAT-0015",
+    "required_qty_per_unit": 0.598,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000079-01",
+    "product_id": "SKU-000079",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 2.97,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000079-02",
+    "product_id": "SKU-000079",
+    "material_code": "MAT-0038",
+    "required_qty_per_unit": 0.929,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000079-03",
+    "product_id": "SKU-000079",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 1.508,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000080-01",
+    "product_id": "SKU-000080",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 0.9,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000080-02",
+    "product_id": "SKU-000080",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 0.554,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000080-03",
+    "product_id": "SKU-000080",
+    "material_code": "MAT-0063",
+    "required_qty_per_unit": 1.98,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000081-01",
+    "product_id": "SKU-000081",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 2.256,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000081-02",
+    "product_id": "SKU-000081",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 1.068,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000081-03",
+    "product_id": "SKU-000081",
+    "material_code": "MAT-0072",
+    "required_qty_per_unit": 1.181,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000082-01",
+    "product_id": "SKU-000082",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 0.632,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000082-02",
+    "product_id": "SKU-000082",
+    "material_code": "MAT-0052",
+    "required_qty_per_unit": 2.393,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000082-03",
+    "product_id": "SKU-000082",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 2.864,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000083-01",
+    "product_id": "SKU-000083",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 2.876,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000083-02",
+    "product_id": "SKU-000083",
+    "material_code": "MAT-0002",
+    "required_qty_per_unit": 1.956,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000083-03",
+    "product_id": "SKU-000083",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 1.95,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000084-01",
+    "product_id": "SKU-000084",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 0.762,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000084-02",
+    "product_id": "SKU-000084",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 1.457,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000084-03",
+    "product_id": "SKU-000084",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 1.758,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000085-01",
+    "product_id": "SKU-000085",
+    "material_code": "MAT-0052",
+    "required_qty_per_unit": 1.672,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000085-02",
+    "product_id": "SKU-000085",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 2.442,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000085-03",
+    "product_id": "SKU-000085",
+    "material_code": "MAT-0067",
+    "required_qty_per_unit": 2.299,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000086-01",
+    "product_id": "SKU-000086",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 2.636,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000086-02",
+    "product_id": "SKU-000086",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 2.107,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000086-03",
+    "product_id": "SKU-000086",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.436,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000087-01",
+    "product_id": "SKU-000087",
+    "material_code": "MAT-0064",
+    "required_qty_per_unit": 2.744,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000087-02",
+    "product_id": "SKU-000087",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.63,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000087-03",
+    "product_id": "SKU-000087",
+    "material_code": "MAT-0070",
+    "required_qty_per_unit": 2.425,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000088-01",
+    "product_id": "SKU-000088",
+    "material_code": "MAT-0070",
+    "required_qty_per_unit": 1.198,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000088-02",
+    "product_id": "SKU-000088",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 2.63,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000088-03",
+    "product_id": "SKU-000088",
+    "material_code": "MAT-0045",
+    "required_qty_per_unit": 1.429,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000089-01",
+    "product_id": "SKU-000089",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 1.659,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000089-02",
+    "product_id": "SKU-000089",
+    "material_code": "MAT-0027",
+    "required_qty_per_unit": 1.917,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000089-03",
+    "product_id": "SKU-000089",
+    "material_code": "MAT-0033",
+    "required_qty_per_unit": 2.187,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000090-01",
+    "product_id": "SKU-000090",
+    "material_code": "MAT-0063",
+    "required_qty_per_unit": 2.391,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000090-02",
+    "product_id": "SKU-000090",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 1.22,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000090-03",
+    "product_id": "SKU-000090",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 1.043,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000091-01",
+    "product_id": "SKU-000091",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 2.211,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000091-02",
+    "product_id": "SKU-000091",
+    "material_code": "MAT-0074",
+    "required_qty_per_unit": 2.02,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000091-03",
+    "product_id": "SKU-000091",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 2.961,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000092-01",
+    "product_id": "SKU-000092",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 1.919,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000092-02",
+    "product_id": "SKU-000092",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 2.66,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000092-03",
+    "product_id": "SKU-000092",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 2.855,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000093-01",
+    "product_id": "SKU-000093",
+    "material_code": "MAT-0048",
+    "required_qty_per_unit": 2.037,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000093-02",
+    "product_id": "SKU-000093",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 2.333,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000093-03",
+    "product_id": "SKU-000093",
+    "material_code": "MAT-0015",
+    "required_qty_per_unit": 1.018,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000094-01",
+    "product_id": "SKU-000094",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 2.537,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000094-02",
+    "product_id": "SKU-000094",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 2.06,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000094-03",
+    "product_id": "SKU-000094",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 2.222,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000095-01",
+    "product_id": "SKU-000095",
+    "material_code": "MAT-0039",
+    "required_qty_per_unit": 0.525,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000095-02",
+    "product_id": "SKU-000095",
+    "material_code": "MAT-0069",
+    "required_qty_per_unit": 1.956,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000095-03",
+    "product_id": "SKU-000095",
+    "material_code": "MAT-0011",
+    "required_qty_per_unit": 1.397,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000096-01",
+    "product_id": "SKU-000096",
+    "material_code": "MAT-0074",
+    "required_qty_per_unit": 1.043,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000096-02",
+    "product_id": "SKU-000096",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 1.01,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000096-03",
+    "product_id": "SKU-000096",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.339,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000097-01",
+    "product_id": "SKU-000097",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 2.1,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000097-02",
+    "product_id": "SKU-000097",
+    "material_code": "MAT-0011",
+    "required_qty_per_unit": 2.526,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000097-03",
+    "product_id": "SKU-000097",
+    "material_code": "MAT-0073",
+    "required_qty_per_unit": 2.348,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000098-01",
+    "product_id": "SKU-000098",
+    "material_code": "MAT-0038",
+    "required_qty_per_unit": 2.605,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000098-02",
+    "product_id": "SKU-000098",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 0.994,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000098-03",
+    "product_id": "SKU-000098",
+    "material_code": "MAT-0074",
+    "required_qty_per_unit": 0.68,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000099-01",
+    "product_id": "SKU-000099",
+    "material_code": "MAT-0011",
+    "required_qty_per_unit": 1.162,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000099-02",
+    "product_id": "SKU-000099",
+    "material_code": "MAT-0050",
+    "required_qty_per_unit": 1.269,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000099-03",
+    "product_id": "SKU-000099",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 1.94,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000100-01",
+    "product_id": "SKU-000100",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 2.288,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000100-02",
+    "product_id": "SKU-000100",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 2.877,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000100-03",
+    "product_id": "SKU-000100",
+    "material_code": "MAT-0033",
+    "required_qty_per_unit": 0.608,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000101-01",
+    "product_id": "SKU-000101",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 1.972,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000101-02",
+    "product_id": "SKU-000101",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 2.926,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000101-03",
+    "product_id": "SKU-000101",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 1.067,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000102-01",
+    "product_id": "SKU-000102",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 2.322,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000102-02",
+    "product_id": "SKU-000102",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 2.778,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000102-03",
+    "product_id": "SKU-000102",
+    "material_code": "MAT-0060",
+    "required_qty_per_unit": 1.443,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000103-01",
+    "product_id": "SKU-000103",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 0.555,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000103-02",
+    "product_id": "SKU-000103",
+    "material_code": "MAT-0034",
+    "required_qty_per_unit": 0.868,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000103-03",
+    "product_id": "SKU-000103",
+    "material_code": "MAT-0052",
+    "required_qty_per_unit": 1.149,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000104-01",
+    "product_id": "SKU-000104",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 1.057,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000104-02",
+    "product_id": "SKU-000104",
+    "material_code": "MAT-0039",
+    "required_qty_per_unit": 1.37,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000104-03",
+    "product_id": "SKU-000104",
+    "material_code": "MAT-0011",
+    "required_qty_per_unit": 0.941,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000105-01",
+    "product_id": "SKU-000105",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 1.229,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000105-02",
+    "product_id": "SKU-000105",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 1.461,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000105-03",
+    "product_id": "SKU-000105",
+    "material_code": "MAT-0045",
+    "required_qty_per_unit": 1.546,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000106-01",
+    "product_id": "SKU-000106",
+    "material_code": "MAT-0029",
+    "required_qty_per_unit": 2.302,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000106-02",
+    "product_id": "SKU-000106",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 2.72,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000106-03",
+    "product_id": "SKU-000106",
+    "material_code": "MAT-0071",
+    "required_qty_per_unit": 0.606,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000107-01",
+    "product_id": "SKU-000107",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 1.224,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000107-02",
+    "product_id": "SKU-000107",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 2.937,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000107-03",
+    "product_id": "SKU-000107",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 2.319,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000108-01",
+    "product_id": "SKU-000108",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 2.64,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000108-02",
+    "product_id": "SKU-000108",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 2.425,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000108-03",
+    "product_id": "SKU-000108",
+    "material_code": "MAT-0024",
+    "required_qty_per_unit": 2.061,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000109-01",
+    "product_id": "SKU-000109",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 2.605,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000109-02",
+    "product_id": "SKU-000109",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 2.34,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000109-03",
+    "product_id": "SKU-000109",
+    "material_code": "MAT-0064",
+    "required_qty_per_unit": 0.914,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000110-01",
+    "product_id": "SKU-000110",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 0.744,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000110-02",
+    "product_id": "SKU-000110",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 2.986,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000110-03",
+    "product_id": "SKU-000110",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 0.505,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000111-01",
+    "product_id": "SKU-000111",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.132,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000111-02",
+    "product_id": "SKU-000111",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.831,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000111-03",
+    "product_id": "SKU-000111",
+    "material_code": "MAT-0064",
+    "required_qty_per_unit": 2.337,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000112-01",
+    "product_id": "SKU-000112",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 0.719,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000112-02",
+    "product_id": "SKU-000112",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 1.747,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000112-03",
+    "product_id": "SKU-000112",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 2.871,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000113-01",
+    "product_id": "SKU-000113",
+    "material_code": "MAT-0037",
+    "required_qty_per_unit": 0.974,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000113-02",
+    "product_id": "SKU-000113",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 0.715,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000113-03",
+    "product_id": "SKU-000113",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 2.762,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000114-01",
+    "product_id": "SKU-000114",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 2.42,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000114-02",
+    "product_id": "SKU-000114",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 1.921,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000114-03",
+    "product_id": "SKU-000114",
+    "material_code": "MAT-0052",
+    "required_qty_per_unit": 2.636,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000115-01",
+    "product_id": "SKU-000115",
+    "material_code": "MAT-0080",
+    "required_qty_per_unit": 2.519,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000115-02",
+    "product_id": "SKU-000115",
+    "material_code": "MAT-0073",
+    "required_qty_per_unit": 2.983,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000115-03",
+    "product_id": "SKU-000115",
+    "material_code": "MAT-0012",
+    "required_qty_per_unit": 2.083,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000116-01",
+    "product_id": "SKU-000116",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 0.506,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000116-02",
+    "product_id": "SKU-000116",
+    "material_code": "MAT-0024",
+    "required_qty_per_unit": 1.663,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000116-03",
+    "product_id": "SKU-000116",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 0.657,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000117-01",
+    "product_id": "SKU-000117",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 1.177,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000117-02",
+    "product_id": "SKU-000117",
+    "material_code": "MAT-0021",
+    "required_qty_per_unit": 1.52,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000117-03",
+    "product_id": "SKU-000117",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 0.933,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000118-01",
+    "product_id": "SKU-000118",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 2.273,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000118-02",
+    "product_id": "SKU-000118",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 1.632,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000118-03",
+    "product_id": "SKU-000118",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 0.922,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000119-01",
+    "product_id": "SKU-000119",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 1.996,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000119-02",
+    "product_id": "SKU-000119",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 0.561,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000119-03",
+    "product_id": "SKU-000119",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 1.405,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000120-01",
+    "product_id": "SKU-000120",
+    "material_code": "MAT-0002",
+    "required_qty_per_unit": 2.05,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000120-02",
+    "product_id": "SKU-000120",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 0.588,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000120-03",
+    "product_id": "SKU-000120",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 2.704,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000121-01",
+    "product_id": "SKU-000121",
+    "material_code": "MAT-0049",
+    "required_qty_per_unit": 1.615,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000121-02",
+    "product_id": "SKU-000121",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 0.62,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000121-03",
+    "product_id": "SKU-000121",
+    "material_code": "MAT-0027",
+    "required_qty_per_unit": 1.998,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000122-01",
+    "product_id": "SKU-000122",
+    "material_code": "MAT-0080",
+    "required_qty_per_unit": 2.558,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000122-02",
+    "product_id": "SKU-000122",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 2.229,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000122-03",
+    "product_id": "SKU-000122",
+    "material_code": "MAT-0064",
+    "required_qty_per_unit": 2.794,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000123-01",
+    "product_id": "SKU-000123",
+    "material_code": "MAT-0029",
+    "required_qty_per_unit": 0.837,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000123-02",
+    "product_id": "SKU-000123",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 1.986,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000123-03",
+    "product_id": "SKU-000123",
+    "material_code": "MAT-0024",
+    "required_qty_per_unit": 2.801,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000124-01",
+    "product_id": "SKU-000124",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 0.854,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000124-02",
+    "product_id": "SKU-000124",
+    "material_code": "MAT-0038",
+    "required_qty_per_unit": 0.793,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000124-03",
+    "product_id": "SKU-000124",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 0.928,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000125-01",
+    "product_id": "SKU-000125",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 2.354,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000125-02",
+    "product_id": "SKU-000125",
+    "material_code": "MAT-0009",
+    "required_qty_per_unit": 2.32,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000125-03",
+    "product_id": "SKU-000125",
+    "material_code": "MAT-0034",
+    "required_qty_per_unit": 2.566,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000126-01",
+    "product_id": "SKU-000126",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 2.238,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000126-02",
+    "product_id": "SKU-000126",
+    "material_code": "MAT-0010",
+    "required_qty_per_unit": 2.632,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000126-03",
+    "product_id": "SKU-000126",
+    "material_code": "MAT-0034",
+    "required_qty_per_unit": 1.714,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000127-01",
+    "product_id": "SKU-000127",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 1.918,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000127-02",
+    "product_id": "SKU-000127",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 2.736,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000127-03",
+    "product_id": "SKU-000127",
+    "material_code": "MAT-0002",
+    "required_qty_per_unit": 1.528,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000128-01",
+    "product_id": "SKU-000128",
+    "material_code": "MAT-0028",
+    "required_qty_per_unit": 2.244,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000128-02",
+    "product_id": "SKU-000128",
+    "material_code": "MAT-0073",
+    "required_qty_per_unit": 2.194,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000128-03",
+    "product_id": "SKU-000128",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 1.765,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000129-01",
+    "product_id": "SKU-000129",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 2.246,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000129-02",
+    "product_id": "SKU-000129",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 0.87,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000129-03",
+    "product_id": "SKU-000129",
+    "material_code": "MAT-0051",
+    "required_qty_per_unit": 2.134,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000130-01",
+    "product_id": "SKU-000130",
+    "material_code": "MAT-0052",
+    "required_qty_per_unit": 2.968,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000130-02",
+    "product_id": "SKU-000130",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 2.293,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000130-03",
+    "product_id": "SKU-000130",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 0.553,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000131-01",
+    "product_id": "SKU-000131",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 1.609,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000131-02",
+    "product_id": "SKU-000131",
+    "material_code": "MAT-0033",
+    "required_qty_per_unit": 2.846,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000131-03",
+    "product_id": "SKU-000131",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 0.843,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000132-01",
+    "product_id": "SKU-000132",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 2.149,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000132-02",
+    "product_id": "SKU-000132",
+    "material_code": "MAT-0004",
+    "required_qty_per_unit": 1.454,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000132-03",
+    "product_id": "SKU-000132",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 2.421,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000133-01",
+    "product_id": "SKU-000133",
+    "material_code": "MAT-0067",
+    "required_qty_per_unit": 2.725,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000133-02",
+    "product_id": "SKU-000133",
+    "material_code": "MAT-0049",
+    "required_qty_per_unit": 2.8,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000133-03",
+    "product_id": "SKU-000133",
+    "material_code": "MAT-0064",
+    "required_qty_per_unit": 2.651,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000134-01",
+    "product_id": "SKU-000134",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 1.463,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000134-02",
+    "product_id": "SKU-000134",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 0.928,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000134-03",
+    "product_id": "SKU-000134",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 1.87,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000135-01",
+    "product_id": "SKU-000135",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 2.041,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000135-02",
+    "product_id": "SKU-000135",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 0.594,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000135-03",
+    "product_id": "SKU-000135",
+    "material_code": "MAT-0079",
+    "required_qty_per_unit": 2.241,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000136-01",
+    "product_id": "SKU-000136",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 0.636,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000136-02",
+    "product_id": "SKU-000136",
+    "material_code": "MAT-0067",
+    "required_qty_per_unit": 2.241,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000136-03",
+    "product_id": "SKU-000136",
+    "material_code": "MAT-0079",
+    "required_qty_per_unit": 1.451,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000137-01",
+    "product_id": "SKU-000137",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 2.147,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000137-02",
+    "product_id": "SKU-000137",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 2.401,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000137-03",
+    "product_id": "SKU-000137",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 1.387,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000138-01",
+    "product_id": "SKU-000138",
+    "material_code": "MAT-0011",
+    "required_qty_per_unit": 0.865,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000138-02",
+    "product_id": "SKU-000138",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 2.353,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000138-03",
+    "product_id": "SKU-000138",
+    "material_code": "MAT-0077",
+    "required_qty_per_unit": 2.865,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000139-01",
+    "product_id": "SKU-000139",
+    "material_code": "MAT-0075",
+    "required_qty_per_unit": 0.661,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000139-02",
+    "product_id": "SKU-000139",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 1.441,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000139-03",
+    "product_id": "SKU-000139",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 2.997,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000140-01",
+    "product_id": "SKU-000140",
+    "material_code": "MAT-0033",
+    "required_qty_per_unit": 1.58,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000140-02",
+    "product_id": "SKU-000140",
+    "material_code": "MAT-0054",
+    "required_qty_per_unit": 0.868,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000140-03",
+    "product_id": "SKU-000140",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.696,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000141-01",
+    "product_id": "SKU-000141",
+    "material_code": "MAT-0077",
+    "required_qty_per_unit": 1.632,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000141-02",
+    "product_id": "SKU-000141",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 2.049,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000141-03",
+    "product_id": "SKU-000141",
+    "material_code": "MAT-0063",
+    "required_qty_per_unit": 1.141,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000142-01",
+    "product_id": "SKU-000142",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 1.991,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000142-02",
+    "product_id": "SKU-000142",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 1.857,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000142-03",
+    "product_id": "SKU-000142",
+    "material_code": "MAT-0057",
+    "required_qty_per_unit": 2.732,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000143-01",
+    "product_id": "SKU-000143",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 0.528,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000143-02",
+    "product_id": "SKU-000143",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 1.862,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000143-03",
+    "product_id": "SKU-000143",
+    "material_code": "MAT-0042",
+    "required_qty_per_unit": 2.433,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000144-01",
+    "product_id": "SKU-000144",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 0.977,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000144-02",
+    "product_id": "SKU-000144",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 2.997,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000144-03",
+    "product_id": "SKU-000144",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 1.051,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000145-01",
+    "product_id": "SKU-000145",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 1.147,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000145-02",
+    "product_id": "SKU-000145",
+    "material_code": "MAT-0049",
+    "required_qty_per_unit": 1.463,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000145-03",
+    "product_id": "SKU-000145",
+    "material_code": "MAT-0029",
+    "required_qty_per_unit": 2.532,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000146-01",
+    "product_id": "SKU-000146",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 2.438,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000146-02",
+    "product_id": "SKU-000146",
+    "material_code": "MAT-0036",
+    "required_qty_per_unit": 1.896,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000146-03",
+    "product_id": "SKU-000146",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 2.321,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000147-01",
+    "product_id": "SKU-000147",
+    "material_code": "MAT-0069",
+    "required_qty_per_unit": 2.033,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000147-02",
+    "product_id": "SKU-000147",
+    "material_code": "MAT-0009",
+    "required_qty_per_unit": 2.123,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000147-03",
+    "product_id": "SKU-000147",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 2.819,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000148-01",
+    "product_id": "SKU-000148",
+    "material_code": "MAT-0004",
+    "required_qty_per_unit": 2.175,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000148-02",
+    "product_id": "SKU-000148",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 1.883,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000148-03",
+    "product_id": "SKU-000148",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 1.382,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000149-01",
+    "product_id": "SKU-000149",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 1.475,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000149-02",
+    "product_id": "SKU-000149",
+    "material_code": "MAT-0078",
+    "required_qty_per_unit": 2.155,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000149-03",
+    "product_id": "SKU-000149",
+    "material_code": "MAT-0077",
+    "required_qty_per_unit": 2.947,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000150-01",
+    "product_id": "SKU-000150",
+    "material_code": "MAT-0052",
+    "required_qty_per_unit": 1.495,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000150-02",
+    "product_id": "SKU-000150",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 1.875,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000150-03",
+    "product_id": "SKU-000150",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 1.762,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000151-01",
+    "product_id": "SKU-000151",
+    "material_code": "MAT-0055",
+    "required_qty_per_unit": 0.66,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000151-02",
+    "product_id": "SKU-000151",
+    "material_code": "MAT-0010",
+    "required_qty_per_unit": 2.608,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000151-03",
+    "product_id": "SKU-000151",
+    "material_code": "MAT-0023",
+    "required_qty_per_unit": 1.592,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000152-01",
+    "product_id": "SKU-000152",
+    "material_code": "MAT-0065",
+    "required_qty_per_unit": 2.215,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000152-02",
+    "product_id": "SKU-000152",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 1.128,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000152-03",
+    "product_id": "SKU-000152",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.03,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000153-01",
+    "product_id": "SKU-000153",
+    "material_code": "MAT-0077",
+    "required_qty_per_unit": 1.914,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000153-02",
+    "product_id": "SKU-000153",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 2.406,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000153-03",
+    "product_id": "SKU-000153",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 1.288,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000154-01",
+    "product_id": "SKU-000154",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.737,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000154-02",
+    "product_id": "SKU-000154",
+    "material_code": "MAT-0052",
+    "required_qty_per_unit": 2.51,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000154-03",
+    "product_id": "SKU-000154",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 2.096,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000155-01",
+    "product_id": "SKU-000155",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 2.139,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000155-02",
+    "product_id": "SKU-000155",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 1.896,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000155-03",
+    "product_id": "SKU-000155",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.687,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000156-01",
+    "product_id": "SKU-000156",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 0.69,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000156-02",
+    "product_id": "SKU-000156",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 1.679,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000156-03",
+    "product_id": "SKU-000156",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 2.301,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000157-01",
+    "product_id": "SKU-000157",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 1.894,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000157-02",
+    "product_id": "SKU-000157",
+    "material_code": "MAT-0071",
+    "required_qty_per_unit": 1.781,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000157-03",
+    "product_id": "SKU-000157",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 2.83,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000158-01",
+    "product_id": "SKU-000158",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 0.502,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000158-02",
+    "product_id": "SKU-000158",
+    "material_code": "MAT-0033",
+    "required_qty_per_unit": 2.898,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000158-03",
+    "product_id": "SKU-000158",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 2.308,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000159-01",
+    "product_id": "SKU-000159",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 2.837,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000159-02",
+    "product_id": "SKU-000159",
+    "material_code": "MAT-0011",
+    "required_qty_per_unit": 2.919,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000159-03",
+    "product_id": "SKU-000159",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 2.147,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000160-01",
+    "product_id": "SKU-000160",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 0.857,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000160-02",
+    "product_id": "SKU-000160",
+    "material_code": "MAT-0074",
+    "required_qty_per_unit": 1.552,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000160-03",
+    "product_id": "SKU-000160",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 2.04,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000161-01",
+    "product_id": "SKU-000161",
+    "material_code": "MAT-0064",
+    "required_qty_per_unit": 2.799,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000161-02",
+    "product_id": "SKU-000161",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 1.9,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000161-03",
+    "product_id": "SKU-000161",
+    "material_code": "MAT-0043",
+    "required_qty_per_unit": 1.977,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000162-01",
+    "product_id": "SKU-000162",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 2.771,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000162-02",
+    "product_id": "SKU-000162",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 1.094,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000162-03",
+    "product_id": "SKU-000162",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 2.7,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000163-01",
+    "product_id": "SKU-000163",
+    "material_code": "MAT-0080",
+    "required_qty_per_unit": 1.897,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000163-02",
+    "product_id": "SKU-000163",
+    "material_code": "MAT-0003",
+    "required_qty_per_unit": 2.149,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000163-03",
+    "product_id": "SKU-000163",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 0.953,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000164-01",
+    "product_id": "SKU-000164",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 1.098,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000164-02",
+    "product_id": "SKU-000164",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 1.109,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000164-03",
+    "product_id": "SKU-000164",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 2.221,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000165-01",
+    "product_id": "SKU-000165",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 2.729,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000165-02",
+    "product_id": "SKU-000165",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 1.039,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000165-03",
+    "product_id": "SKU-000165",
+    "material_code": "MAT-0056",
+    "required_qty_per_unit": 2.273,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000166-01",
+    "product_id": "SKU-000166",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 2.459,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000166-02",
+    "product_id": "SKU-000166",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 1.785,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000166-03",
+    "product_id": "SKU-000166",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 1.165,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000167-01",
+    "product_id": "SKU-000167",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 0.944,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000167-02",
+    "product_id": "SKU-000167",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 2.649,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000167-03",
+    "product_id": "SKU-000167",
+    "material_code": "MAT-0034",
+    "required_qty_per_unit": 2.365,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000168-01",
+    "product_id": "SKU-000168",
+    "material_code": "MAT-0070",
+    "required_qty_per_unit": 0.957,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000168-02",
+    "product_id": "SKU-000168",
+    "material_code": "MAT-0043",
+    "required_qty_per_unit": 2.72,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000168-03",
+    "product_id": "SKU-000168",
+    "material_code": "MAT-0060",
+    "required_qty_per_unit": 0.6,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000169-01",
+    "product_id": "SKU-000169",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 0.689,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000169-02",
+    "product_id": "SKU-000169",
+    "material_code": "MAT-0045",
+    "required_qty_per_unit": 1.104,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000169-03",
+    "product_id": "SKU-000169",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 0.984,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000170-01",
+    "product_id": "SKU-000170",
+    "material_code": "MAT-0080",
+    "required_qty_per_unit": 2.748,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000170-02",
+    "product_id": "SKU-000170",
+    "material_code": "MAT-0001",
+    "required_qty_per_unit": 1.044,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000170-03",
+    "product_id": "SKU-000170",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 2.534,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000171-01",
+    "product_id": "SKU-000171",
+    "material_code": "MAT-0011",
+    "required_qty_per_unit": 2.705,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000171-02",
+    "product_id": "SKU-000171",
+    "material_code": "MAT-0063",
+    "required_qty_per_unit": 2.04,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000171-03",
+    "product_id": "SKU-000171",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 1.291,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000172-01",
+    "product_id": "SKU-000172",
+    "material_code": "MAT-0048",
+    "required_qty_per_unit": 1.203,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000172-02",
+    "product_id": "SKU-000172",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 2.392,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000172-03",
+    "product_id": "SKU-000172",
+    "material_code": "MAT-0018",
+    "required_qty_per_unit": 2.305,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000173-01",
+    "product_id": "SKU-000173",
+    "material_code": "MAT-0067",
+    "required_qty_per_unit": 2.92,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000173-02",
+    "product_id": "SKU-000173",
+    "material_code": "MAT-0054",
+    "required_qty_per_unit": 2.683,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000173-03",
+    "product_id": "SKU-000173",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 1.92,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000174-01",
+    "product_id": "SKU-000174",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 0.992,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000174-02",
+    "product_id": "SKU-000174",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 1.216,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000174-03",
+    "product_id": "SKU-000174",
+    "material_code": "MAT-0043",
+    "required_qty_per_unit": 1.058,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000175-01",
+    "product_id": "SKU-000175",
+    "material_code": "MAT-0043",
+    "required_qty_per_unit": 1.448,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000175-02",
+    "product_id": "SKU-000175",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 2.055,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000175-03",
+    "product_id": "SKU-000175",
+    "material_code": "MAT-0034",
+    "required_qty_per_unit": 1.725,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000176-01",
+    "product_id": "SKU-000176",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 1.433,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000176-02",
+    "product_id": "SKU-000176",
+    "material_code": "MAT-0022",
+    "required_qty_per_unit": 1.543,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000176-03",
+    "product_id": "SKU-000176",
+    "material_code": "MAT-0069",
+    "required_qty_per_unit": 1.96,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000177-01",
+    "product_id": "SKU-000177",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 2.481,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000177-02",
+    "product_id": "SKU-000177",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 0.902,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000177-03",
+    "product_id": "SKU-000177",
+    "material_code": "MAT-0027",
+    "required_qty_per_unit": 0.92,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000178-01",
+    "product_id": "SKU-000178",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 1.248,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000178-02",
+    "product_id": "SKU-000178",
+    "material_code": "MAT-0045",
+    "required_qty_per_unit": 0.754,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000178-03",
+    "product_id": "SKU-000178",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 2.644,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000179-01",
+    "product_id": "SKU-000179",
+    "material_code": "MAT-0058",
+    "required_qty_per_unit": 2.496,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000179-02",
+    "product_id": "SKU-000179",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 2.281,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000179-03",
+    "product_id": "SKU-000179",
+    "material_code": "MAT-0014",
+    "required_qty_per_unit": 0.711,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000180-01",
+    "product_id": "SKU-000180",
+    "material_code": "MAT-0049",
+    "required_qty_per_unit": 1.015,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000180-02",
+    "product_id": "SKU-000180",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 1.877,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000180-03",
+    "product_id": "SKU-000180",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 1.417,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000181-01",
+    "product_id": "SKU-000181",
+    "material_code": "MAT-0038",
+    "required_qty_per_unit": 2.809,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000181-02",
+    "product_id": "SKU-000181",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 1.282,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000181-03",
+    "product_id": "SKU-000181",
+    "material_code": "MAT-0033",
+    "required_qty_per_unit": 1.341,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000182-01",
+    "product_id": "SKU-000182",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 0.835,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000182-02",
+    "product_id": "SKU-000182",
+    "material_code": "MAT-0042",
+    "required_qty_per_unit": 2.842,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000182-03",
+    "product_id": "SKU-000182",
+    "material_code": "MAT-0048",
+    "required_qty_per_unit": 1.185,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000183-01",
+    "product_id": "SKU-000183",
+    "material_code": "MAT-0040",
+    "required_qty_per_unit": 1.017,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000183-02",
+    "product_id": "SKU-000183",
+    "material_code": "MAT-0024",
+    "required_qty_per_unit": 2.959,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000183-03",
+    "product_id": "SKU-000183",
+    "material_code": "MAT-0020",
+    "required_qty_per_unit": 1.277,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000184-01",
+    "product_id": "SKU-000184",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 1.697,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000184-02",
+    "product_id": "SKU-000184",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 2.735,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000184-03",
+    "product_id": "SKU-000184",
+    "material_code": "MAT-0060",
+    "required_qty_per_unit": 1.833,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000185-01",
+    "product_id": "SKU-000185",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 1.57,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000185-02",
+    "product_id": "SKU-000185",
+    "material_code": "MAT-0049",
+    "required_qty_per_unit": 1.33,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000185-03",
+    "product_id": "SKU-000185",
+    "material_code": "MAT-0025",
+    "required_qty_per_unit": 0.869,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000186-01",
+    "product_id": "SKU-000186",
+    "material_code": "MAT-0035",
+    "required_qty_per_unit": 0.712,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000186-02",
+    "product_id": "SKU-000186",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 2.453,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000186-03",
+    "product_id": "SKU-000186",
+    "material_code": "MAT-0006",
+    "required_qty_per_unit": 0.508,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000187-01",
+    "product_id": "SKU-000187",
+    "material_code": "MAT-0055",
+    "required_qty_per_unit": 2.807,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000187-02",
+    "product_id": "SKU-000187",
+    "material_code": "MAT-0042",
+    "required_qty_per_unit": 1.697,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000187-03",
+    "product_id": "SKU-000187",
+    "material_code": "MAT-0077",
+    "required_qty_per_unit": 2.954,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000188-01",
+    "product_id": "SKU-000188",
+    "material_code": "MAT-0028",
+    "required_qty_per_unit": 2.356,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000188-02",
+    "product_id": "SKU-000188",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 1.704,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000188-03",
+    "product_id": "SKU-000188",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 2.729,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000189-01",
+    "product_id": "SKU-000189",
+    "material_code": "MAT-0007",
+    "required_qty_per_unit": 1.025,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000189-02",
+    "product_id": "SKU-000189",
+    "material_code": "MAT-0044",
+    "required_qty_per_unit": 0.567,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000189-03",
+    "product_id": "SKU-000189",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 0.932,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000190-01",
+    "product_id": "SKU-000190",
+    "material_code": "MAT-0054",
+    "required_qty_per_unit": 2.933,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000190-02",
+    "product_id": "SKU-000190",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 0.877,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000190-03",
+    "product_id": "SKU-000190",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 2.188,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000191-01",
+    "product_id": "SKU-000191",
+    "material_code": "MAT-0062",
+    "required_qty_per_unit": 1.025,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000191-02",
+    "product_id": "SKU-000191",
+    "material_code": "MAT-0008",
+    "required_qty_per_unit": 1.968,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000191-03",
+    "product_id": "SKU-000191",
+    "material_code": "MAT-0071",
+    "required_qty_per_unit": 2.083,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000192-01",
+    "product_id": "SKU-000192",
+    "material_code": "MAT-0019",
+    "required_qty_per_unit": 0.681,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000192-02",
+    "product_id": "SKU-000192",
+    "material_code": "MAT-0030",
+    "required_qty_per_unit": 1.064,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000192-03",
+    "product_id": "SKU-000192",
+    "material_code": "MAT-0016",
+    "required_qty_per_unit": 1.311,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000193-01",
+    "product_id": "SKU-000193",
+    "material_code": "MAT-0055",
+    "required_qty_per_unit": 0.958,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000193-02",
+    "product_id": "SKU-000193",
+    "material_code": "MAT-0076",
+    "required_qty_per_unit": 0.588,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000193-03",
+    "product_id": "SKU-000193",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.804,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000194-01",
+    "product_id": "SKU-000194",
+    "material_code": "MAT-0068",
+    "required_qty_per_unit": 0.726,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000194-02",
+    "product_id": "SKU-000194",
+    "material_code": "MAT-0061",
+    "required_qty_per_unit": 2.706,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000194-03",
+    "product_id": "SKU-000194",
+    "material_code": "MAT-0005",
+    "required_qty_per_unit": 1.217,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000195-01",
+    "product_id": "SKU-000195",
+    "material_code": "MAT-0053",
+    "required_qty_per_unit": 0.737,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000195-02",
+    "product_id": "SKU-000195",
+    "material_code": "MAT-0066",
+    "required_qty_per_unit": 1.046,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000195-03",
+    "product_id": "SKU-000195",
+    "material_code": "MAT-0079",
+    "required_qty_per_unit": 0.69,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000196-01",
+    "product_id": "SKU-000196",
+    "material_code": "MAT-0054",
+    "required_qty_per_unit": 1.552,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000196-02",
+    "product_id": "SKU-000196",
+    "material_code": "MAT-0017",
+    "required_qty_per_unit": 0.727,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000196-03",
+    "product_id": "SKU-000196",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 2.225,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000197-01",
+    "product_id": "SKU-000197",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 1.661,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000197-02",
+    "product_id": "SKU-000197",
+    "material_code": "MAT-0015",
+    "required_qty_per_unit": 1.862,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000197-03",
+    "product_id": "SKU-000197",
+    "material_code": "MAT-0032",
+    "required_qty_per_unit": 2.88,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000198-01",
+    "product_id": "SKU-000198",
+    "material_code": "MAT-0065",
+    "required_qty_per_unit": 2.67,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000198-02",
+    "product_id": "SKU-000198",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 2.739,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000198-03",
+    "product_id": "SKU-000198",
+    "material_code": "MAT-0013",
+    "required_qty_per_unit": 0.876,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000199-01",
+    "product_id": "SKU-000199",
+    "material_code": "MAT-0010",
+    "required_qty_per_unit": 2.903,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000199-02",
+    "product_id": "SKU-000199",
+    "material_code": "MAT-0031",
+    "required_qty_per_unit": 1.487,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000199-03",
+    "product_id": "SKU-000199",
+    "material_code": "MAT-0059",
+    "required_qty_per_unit": 2.426,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000200-01",
+    "product_id": "SKU-000200",
+    "material_code": "MAT-0046",
+    "required_qty_per_unit": 0.582,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000200-02",
+    "product_id": "SKU-000200",
+    "material_code": "MAT-0072",
+    "required_qty_per_unit": 2.097,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "bom_id": "BOM-000200-03",
+    "product_id": "SKU-000200",
+    "material_code": "MAT-0026",
+    "required_qty_per_unit": 1.715,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  }
+]

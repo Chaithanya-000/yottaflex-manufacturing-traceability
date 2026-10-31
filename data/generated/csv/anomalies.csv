@@ -1,0 +1,6 @@
+anomaly_id,issue_type,ground_truth,description
+ANOM-001,DEFECT_NONEXISTENT_LOT,INVALID_FK,"Defect points to LOT-UNKNOWN-999999, which does not exist."
+ANOM-002,BOM_MATERIAL_NOT_CONSUMED,RECONCILIATION_FAILURE,A BOM-required material is deliberately absent from an order's consumption rows.
+ANOM-003,CAPA_CLOSED_BEFORE_VERIFICATION,LIFECYCLE_VIOLATION,Corrective action is marked CLOSED with no verification timestamp.
+ANOM-004,DEFECT_QTY_EXCEEDS_INSPECTED,QUANTITY_VIOLATION,Defect quantity 12 exceeds inspected quantity 10.
+ANOM-005,TRACEABILITY_CHAIN_BREAK,MISSING_RELATIONSHIP,Production order references a deliberately missing material lot.

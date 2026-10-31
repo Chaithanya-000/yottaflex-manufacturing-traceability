@@ -1,0 +1,18 @@
+{
+  "seed": 20261022,
+  "record_counts": {
+    "products": 200,
+    "boms": 600,
+    "suppliers": 50,
+    "material_lots": 2000,
+    "production_orders": 5000,
+    "machines": 40,
+    "process_steps": 8,
+    "inspection_plans": 8,
+    "inspection_results": 20000,
+    "material_consumptions": 15000,
+    "defects": 706,
+    "corrective_actions": 706,
+    "anomalies": 5
+  }
+}
