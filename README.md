@@ -135,7 +135,7 @@ The anomaly checks currently operate on the implemented SQLite relationships. In
 - [x] Forward and reverse traceability query functions.
 - [x] Five SQL-based anomaly detection checks.
 - [x] Automated generator and anomaly-detection tests.
-- [ ] Automated traceability tests verified.
+- [x] Automated traceability tests verified.
 - [ ] Interactive defect-investigation interface.
 - [ ] Full lifecycle event history and advanced quality analytics.
 - [ ] Web UI and end-to-end application tests.
