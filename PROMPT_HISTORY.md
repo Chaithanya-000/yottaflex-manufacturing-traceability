@@ -2,69 +2,83 @@
 
 # 
 
-# This file records the AI assistance used during the development of the YottaFlex Manufacturing Traceability project.
+# \## Project: YottaFlex Manufacturing Traceability
 
 # 
 
-# \## Project Development
+# \*\*AI tool used:\*\* ChatGPT  
+
+# \*\*Development period:\*\* 30 October – 1 November 2026
 
 # 
 
-# \- \*\*Tool:\*\* ChatGPT
-
-# \- \*\*Date:\*\* 2026-10-30 to 2026-10-31
-
-# \- \*\*Purpose:\*\* Project setup, implementation guidance, debugging, and testing support.
+# \### AI-assisted activities and prompt topics
 
 # 
 
-# \### Development Activities
+# The following summarizes the prompts and requests used during development. This is a reconstructed activity record, not a verbatim export of every individual prompt.
 
 # 
 
-# 1\. Project structure and initial implementation.
+# 1\. \*\*Project setup:\*\* Requests to start the project, establish its structure, and implement the initial foundation.
 
-# 2\. Synthetic manufacturing data generation.
+# 2\. \*\*Synthetic data generation:\*\* Requests for deterministic manufacturing data, entity relationships, record counts, and export formats.
 
-# 3\. Data validation and reproducibility.
+# 3\. \*\*Database design:\*\* Requests to review and improve the SQLite schema, foreign keys, constraints, and data dictionary.
 
-# 4\. Forward and reverse traceability implementation.
+# 4\. \*\*Data validation:\*\* Requests to implement and debug integrity checks, quantity reconciliation, and reproducibility.
 
-# 5\. SQL-based anomaly detection.
+# 5\. \*\*Traceability:\*\* Requests to implement and verify forward and reverse traceability queries.
 
-# 6\. Automated test case development.
+# 6\. \*\*Anomaly detection:\*\* Requests to design SQL-based checks for five labelled data-integrity scenarios.
 
-# 7\. README documentation and GitHub setup.
+# 7\. \*\*Testing:\*\* Requests to create, run, debug, and review automated tests.
 
-# 
-
-# \### Testing and Verification
+# 8\. \*\*Documentation and delivery:\*\* Requests to improve the README, document AI assistance, and prepare the public GitHub repository.
 
 # 
 
-# \- Executed the project locally using Python 3.11.
-
-# \- Generated and validated the manufacturing dataset.
-
-# \- Verified reproducibility using a fixed random seed.
-
-# \- Tested anomaly detection using deliberately malformed test records.
-
-# \- Executed automated tests successfully.
+# \### Where AI assistance was used
 
 # 
 
-# \*\*Final test result:\*\* 7 passed.
+# ChatGPT provided implementation guidance, code suggestions, debugging assistance, test-design support, schema reviews, and documentation suggestions.
 
 # 
 
-# \### Development Notes
+# \### What I personally reviewed and verified
 
 # 
 
-# The implementation was reviewed and executed locally. Issues identified during development were corrected and functionality was verified through automated tests.
+# \- Reviewed the project files and database schema.
+
+# \- Executed the generator locally using Python 3.11.
+
+# \- Generated the dataset with seed `20261022`.
+
+# \- Ran the validation module and verified all 15 reported checks passed.
+
+# \- Ran the automated test suite and verified all 7 tests passed.
+
+# \- Reviewed the traceability and anomaly-detection test results.
+
+# \- Corrected schema issues and regenerated the exported artifacts.
+
+# \- Committed and pushed the final changes to the public GitHub repository.
 
 # 
 
+# \### Prompt-record limitation
+
 # 
+
+# The development conversation was not exported as a complete verbatim prompt transcript. This file therefore records the main prompt topics and AI-assisted activities rather than claiming to contain every original prompt. AI responses are not reproduced.
+
+# 
+
+# \### Ownership and understanding
+
+# 
+
+# I am responsible for reviewing, running, testing, and explaining the submitted implementation, including its design decisions, dependencies, and known limitations.
 

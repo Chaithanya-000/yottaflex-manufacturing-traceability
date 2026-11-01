@@ -4,22 +4,21 @@ A reproducible synthetic manufacturing-data and traceability foundation for the 
 
 ## Current implementation
 
-- Deterministic synthetic manufacturing data generated using a configurable random seed.
-- 11 core entities: Product, BOM, Supplier, MaterialLot, ProductionOrder, Machine, ProcessStep, InspectionPlan, InspectionResult, Defect, and CorrectiveAction.
-- Referentially consistent baseline data with deterministic IDs.
-- Five labelled negative scenarios stored separately from valid baseline data.
-- CSV, JSON, SQLite, SQL schema, seed SQL, data dictionary, validation summary, and SHA-256 manifest exports.
-- Data validation covering primary/foreign-key relationships, quantities, material reconciliation, and other integrity rules.
-- Reproducibility verification using generated-file checksums.
-- Forward traceability from a defect to its production order, product, process, machine, material lot, supplier, and corrective action.
-- Reverse traceability from a material lot to the production orders and related defects.
-- Five SQL-based anomaly detection checks for data-integrity and lifecycle violations.
+* Deterministic synthetic manufacturing data generated using a configurable random seed.
+* 11 core manufacturing entities and one material-consumption transaction table (12 relational tables in total).Referentially consistent baseline data with deterministic IDs.
+* Five labelled negative scenarios stored separately from valid baseline data.
+* CSV, JSON, SQLite, SQL schema, seed SQL, data dictionary, validation summary, and SHA-256 manifest exports.
+* Data validation covering primary/foreign-key relationships, quantities, material reconciliation, and other integrity rules.
+* Reproducibility verification using generated-file checksums.
+* Forward traceability from a defect to its production order, product, process, machine, material lot, supplier, and corrective action.
+* Reverse traceability from a material lot to the production orders and related defects.
+* Five SQL-based anomaly detection checks for data-integrity and lifecycle violations.
 
 ## Requirements
 
-- Python 3.11+
-- Runtime generation, validation, traceability, and anomaly-detection functionality use Python's standard library.
-- `pytest` is required to run the automated tests.
+* Python 3.11+
+* Runtime generation, validation, traceability, and anomaly-detection functionality use Python's standard library.
+* `pytest` is required to run the automated tests.
 
 ## Setup and quick start (Windows PowerShell)
 
@@ -27,7 +26,7 @@ Run these commands from the repository root:
 
 ```powershell
 py -3.11 -m venv .venv
-.\.venv\Scripts\Activate.ps1
+.\\.venv\\Scripts\\Activate.ps1
 
 python -m pip install --upgrade pip
 pip install -e .
@@ -59,7 +58,7 @@ Run the same seed again and compare the generated checksums to verify determinis
 ## Run anomaly detection
 
 ```powershell
-python -m yottaflex.anomaly_detection
+python -m yottaflex.anomaly\_detection
 ```
 
 The detector checks the SQLite baseline database for five conditions:
@@ -84,8 +83,8 @@ The tests cover deterministic generation, required baseline record counts, anoma
 
 The traceability module provides two query operations:
 
-- `forward_trace(db_path, defect_id)`: follows a defect through its inspection result, production order, product, process step, machine, material lot, supplier, and corrective action.
-- `reverse_trace(db_path, material_lot_id)`: finds production orders and related defect information associated with a material lot.
+* `forward\_trace(db\_path, defect\_id)`: follows a defect through its inspection result, production order, product, process step, machine, material lot, supplier, and corrective action.
+* `reverse\_trace(db\_path, material\_lot\_id)`: finds production orders and related defect information associated with a material lot.
 
 These are Python query functions, not a web API or interactive user interface.
 
@@ -97,19 +96,19 @@ data/generated/
   json/                JSON exports for generated entities and labelled anomalies
   yottaflex.sqlite3    SQLite database
   schema.sql           SQLite database schema
-  seed_data.sql        SQL schema and seed INSERT statements
-  data_dictionary.md   Entity and field descriptions
-  validation_summary.json
+  seed\_data.sql        SQL schema and seed INSERT statements
+  data\_dictionary.md   Entity and field descriptions
+  validation\_summary.json
   manifest.sha256      Generated-file checksums
 ```
 
 ## Design decisions
 
-1. The baseline dataset contains valid records. Deliberate negative scenarios are stored separately with an `issue_type` and `ground_truth` label.
+1. The baseline dataset contains valid records. Deliberate negative scenarios are stored separately with an `issue\_type` and `ground\_truth` label.
 2. The random seed controls generation so the same seed produces reproducible output.
 3. IDs are deterministic and zero-padded.
 4. Inspection defect rates use inspected quantity as the denominator.
-5. Material lots are allocated to production orders through `material_consumptions`, providing an explicit lot-to-order relationship.
+5. Material lots are allocated to production orders through `material\_consumptions`, providing an explicit lot-to-order relationship.
 6. Derived values, including remaining lot quantity, defect rate, and order material balance, are calculated from source records after generation.
 7. Anomaly detection is performed using SQL checks against a SQLite database. The baseline database is kept clean; malformed records are introduced in isolated test fixtures.
 
@@ -117,26 +116,26 @@ data/generated/
 
 This implementation provides a synthetic-data foundation, validation, traceability query functions, and SQL-based anomaly detection. It does not currently provide:
 
-- A web-based or interactive defect-investigation interface.
-- A complete event-sourced manufacturing lifecycle history.
-- Advanced quality analytics or dashboards.
-- Full end-to-end application testing.
+* A web-based or interactive defect-investigation interface.
+* A complete event-sourced manufacturing lifecycle history.
+* Advanced quality analytics or dashboards.
+* Full end-to-end application testing.
 
-The anomaly checks currently operate on the implemented SQLite relationships. In particular, the traceability-chain-break check interprets a missing material-lot relationship through `material_consumptions`.
+The anomaly checks currently operate on the implemented SQLite relationships. In particular, the traceability-chain-break check interprets a missing material-lot relationship through `material\_consumptions`.
 
 ## Challenge coverage checklist
 
-- [x] Deterministic baseline data generation with a fixed seed.
-- [x] Required baseline record volumes.
-- [x] Related manufacturing master and transaction entities.
-- [x] Five labelled negative scenarios.
-- [x] CSV, JSON, SQL schema, and SQLite exports.
-- [x] Data validation and reproducibility commands.
-- [x] Forward and reverse traceability query functions.
-- [x] Five SQL-based anomaly detection checks.
-- [x] Automated generator and anomaly-detection tests.
-- [x] Automated traceability tests verified.
-- [ ] Interactive defect-investigation interface.
-- [ ] Full lifecycle event history and advanced quality analytics.
-- [ ] Web UI and end-to-end application tests.
+* \[x] Deterministic baseline data generation with a fixed seed.
+* \[x] Required baseline record volumes.
+* \[x] Related manufacturing master and transaction entities.
+* \[x] Five labelled negative scenarios.
+* \[x] CSV, JSON, SQL schema, and SQLite exports.
+* \[x] Data validation and reproducibility commands.
+* \[x] Forward and reverse traceability query functions.
+* \[x] Five SQL-based anomaly detection checks.
+* \[x] Automated generator and anomaly-detection tests.
+* \[x] Automated traceability tests verified.
+* \[ ] Interactive defect-investigation interface.
+* \[ ] Full lifecycle event history and advanced quality analytics.
+* \[ ] Web UI and end-to-end application tests.
 
